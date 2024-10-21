@@ -1,8 +1,8 @@
 <html>
 <body>
 <H1>Camera Hacking Tool</H1>
-<H2>Welcome to The xXxFOUBIAxXx</H2>
-  <H4>   ~~~Tool By The xXxFOUBIAxXx~~~</H4>
+<H2>Welcome to  xXxFOUBIAxXx script</H2>
+  <H4>   ~~~Tool By xXxFOUBIAxXx~~~</H4>
   <H4>my telegram : @F_O_U_B_I_A<H4>
   
   
