@@ -1,7 +1,7 @@
 #!/bin/bash
 # CamHack v1.3
-# Powered by Devil Tigers
-# Credits goes to the Devil Tigers [github.com/Devil-Tigers/]
+# Powered by xXxFOUBIAxXx
+# Credits goes to the Devil xXxFOUBIAxXx [github.com/xXxFOUBIAxXx/]
 
 trap 'printf "\n";stop' 2
 clear
@@ -15,8 +15,8 @@ echo -e "\e[34m  | |___ / ___ \| |  | | \e[91m|  _  |/ ___ \ |___| . \  "
 echo -e "\e[34m   \____/_/   \_\_|  |_| \e[91m|_| |_/_/   \_\____|_|\_\ "
 echo " "
 echo -e "\e[33m======================================================="
-echo -e "\e[36m   ~Script by \e[1m xXxFOUBIAxXx\e[21m~"
-echo -e "\e[36m   ~my telegram :\e[1m @F_O_U_B_I_A\e[21m~"
+echo -e "\e[36m   ~Script by \e[1mxXxFOUBIAxXx\e[21m~"
+echo -e "\e[36m   ~my telegram : \e[1m@F_O_U_B_I_A\e[21m~"
 echo -e "\e[33m======================================================="
 echo " "
 echo -e "\e[93m\e[44mBy Clicking Enter you agree that"|pv -qL 20
